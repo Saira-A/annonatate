@@ -1,3 +1,11 @@
-images: []
+images:
+- added: '2024-09-05 11:35:34.834811'
+  iiif: true
+  thumbnail: https://biiif-template-example-3kntb3jpl-mnemoscene.vercel.app/images/_vincent/vincent.jpg
+  title:
+  - '@none':
+    - Vincent
+  url: https://biiif-template-example-3kntb3jpl-mnemoscene.vercel.app/images/index.json
+  user: Saira-A
 settings: {}
 version: '2.1'
